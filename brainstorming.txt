@@ -1,0 +1,30 @@
+From the syllabus: "We will focus mainly on knowledge and information infrastructures: libraries, classification systems, scientific research practices, the Internet, the World Wide Web, and cyberinfrastructures in the physical and social sciences. Infrastructures are ecologies of numerous systems, each with unique origins and goals, which are made to interoperate by means of standards, socket layers, social practices, norms, and individual behaviors that smooth out the connections among them."
+
+Ideas:  
+Code, standard libraries
+Git systems
+Open sourced code
+	The infrastructure for sharing code (github)
+	The infrastructure for collaborating
+		Stack overflow
+		Libraries
+	The norms that make it possible
+		Coding practises
+		Community factors — trust
+		The general acceptance — copyright stuff, compensation
+	The dangers of the system
+		Viruses that exploit the open source code
+			What are the vetting practises
+Coding community — social norms and how that affects coding habits
+Tab vs space
+lowerCamelCase
+decomp/commenting
+The culture of computing makes code more reuseable 
+	Ideals hidden in that 
+
+Different systems: 
+	Graphics
+	User interface
+	Database
+	Software stuff
+
