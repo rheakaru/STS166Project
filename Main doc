@@ -1,10 +1,44 @@
 What is the question: A 3000-4000 word paper on an infrastructure issue of your choice. 
-How is this a knowledge/information infrastructure? 
-What is the topic?
-Why is the topic important?
-What are all the component parts of the topic?
+
+Rhea Karuturi
+STS 166
+Term Paper 
+
+In 1982, Bell Labs made a film titled  “The UNIX System: Making Computers More Productive”. This film talked about a new innovation that would embody an ethos that today characterises large aspects of software development. That innovation was the ‘pipe’, represented by the ‘|’ character on a command line. This simple pipe allowed the output of one program to be fed into another as input. 
+
+A Bell Labs programmer, Brian Kernighan explains “What you can do is to think of these Unix system programs as...building blocks with which you can create things. And the thing that distinguishes Unix system from many other systems is the degree to which those building blocks can be glued together in a variety of different ways. Not just obvious ways but in many cases, very unobvious ways to get different jobs done.”
+
+What Brian Kernighan explains, and the pipe allowed, was a concept in computer science called “modularity”. This example is just one of many that capture a way of coding that allows programmers to string together different components parts to create new programs that did more that any one of the parts. This allows programmers to form a community where code builds off of itself — and collaboration becomes the norm. 
+
+Over the years, the landscape has changed, and so has the way programmers collaborate. Today, the defining practise for collaboration in software development is the open source code community. This paper will look at this community as a knowledge infrastructure and use that lens to look at the massive collaborative effort behind modern software development. This will be done by looking at both the technical systems that facilitate the practise of software development through open source code methods and the norms of the community that allow this collaboration. 
+
+The open source code community is a knowledge infrastructure because it is a site where software is generated, shared and maintained. This community also generates knowledge about how to fix common bugs, best coding practises, new software innovations and new applications of existing functionality.  The community consists of programmers who contribute their work (sometimes without compensation), project managers who monitor the various branches and moderate changes and users who adapt the open source code for their own purposes.  But this community is also bolstered by infrastructure that allows them to share their code, collaborate on projects, manage different branches of the code, dispatch changes and do many other tasks that facilitate this kind of work. 
+
+The community can be identified through its many standardised practises and widely acknowledged norms, such as the protocol on commiting patches or on modifying the code. These norms can also be contested, and there are many networks inside this infrastructure that are distinct from each other: because they work on different kinds of projects, they code in different languages, use different software development practises or a range of other factors. But these networks are still connected through other sources: for example, by using the same platforms to post their repositories, or by coming under the same licensing laws. 
+
+This community is largely left to moderate itself, and the control is widely distributed and very decentralised. The boundaries between different systems in this infrastructure is loose as programmers more from one language to the next, and have significant flexibility in choosing projects to work on. The culture also allows for short-term, low commitment work, that allows for a lot of cross breeding. This has been identified by AnnaLee Saxenian as a defining characteristic of Silicon Valley that drives its innovation. 
+
+This paper will focus on the technical infrastructure that facilitates open source coding. To do this, this paper will use the example of GitHub, a platform for storing and sharing code which has  20 million users and 77 million repositories as of 2018, making it the largest open source repository. GitHub hosts open source projects from many small time developers, but it also hosts projects by big companies in tech world like Google, Adobe, Paypal and IBM. Additionally, many popular projects like Node.js, Ruby on Rails, D3 and JQuery all use GitHub to manage their source code. 
+
+So what makes GitHub so effective as an technical infrastructure to host the open source code community? This paper will explore this question with the aim of gaining more clarity on this community, the way it is structured and the different aspects of the infrastructure that make it work. This will draw on work about collaboration through superposition (Howison, J. and K. Crowston, 2014), transparency (Dabbish et al, 2012), modularity (Conley, C. A., and Sproull, L, 2009) and group dynamics (Seifu, Z and P Tsiavos, 2010). To enrich this understanding, this paper will also look at the legal norms (licensing laws), cultural norms (coding habits, flexibility etc) and institutions that support GitHub in these four important areas.
+
 What is open source? 
 How is this different from normal coding?
 What is git? 
 How does it work?
 What makes gitHub work? 
+
+Superposition:
+
+Transparency:
+
+Modularity: 
+
+Group Dynamics: 
+
+Legal norms: 
+
+Cultural norms:
+
+Institutions that support github:
+
